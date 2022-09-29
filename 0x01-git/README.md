@@ -1,1 +1,2 @@
-my second message
+my second message 
+And happy to be here
